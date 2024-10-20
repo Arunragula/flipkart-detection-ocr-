@@ -87,7 +87,4 @@ num_images_per_term = 8 # Number of images to download per term
 output_dir = "dataset"  # Directory to save images
 
 search_and_download_images(products, api_key, search_engine_id, num_images_per_term, output_dir)
-'''[11:08 PM, 10/18/2024] Rajini Hstl: AIzaSyBVFrLpWn720BppY0NvB10kWNrHAAYywhM
-[11:10 PM, 10/18/2024] Rajini Hstl: <script async src="https://cse.google.com/cse.js?cx=1671ae3ab101241a1">
-</script>
-<div class="gcse-search"></div>'''
+
