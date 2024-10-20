@@ -64,11 +64,11 @@ def search_and_download_images(terms, api_key, search_engine_id, num_images_per_
     print(f"Download complete. Images saved to {output_dir}")
 
 # Example usage
-api_key = "AIzaSyBVFrLpWn720BppY0NvB10kWNrHAAYywhM"
+api_key = "yourapi key"
 
 
 
-search_engine_id = "1671ae3ab101241a1"
+search_engine_id = "searchengineid"
 
 # List of products
 products = [
