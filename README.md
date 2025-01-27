@@ -1,6 +1,4 @@
-Here’s a modified version of your GitHub documentation that is a bit more polished and includes some additional clarifications:
 
----
 
 # Product Detection and Analysis
 
